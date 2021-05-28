@@ -1,2 +1,2 @@
-<h1> CURSO BÁSICO DE PYTHON </h1>
-Repositorio creado para subir los ejercicios que realicé en base al curso básico de Python realizado en la plataforma Platzi
+<h1> PYTHON BASIC COURSE </h1>
+Repository created to upload the exercises I did based on the Python basic course done on the Platzi platform.
